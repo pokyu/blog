@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Pokyu's Notes
 subtitle:
 description:
 author: John Doe
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -78,4 +78,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:pokyu/pokyu.github.io.git
+  branch: master
