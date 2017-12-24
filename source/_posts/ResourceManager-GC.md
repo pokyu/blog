@@ -2,7 +2,8 @@
 title: ResourceManager GC
 date: 2017-08-31 22:24:50
 type: "categories"
-tags:
+tags: "YARN"
+categories: "Hadoop"
 ---
 
 

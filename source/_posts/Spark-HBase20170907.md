@@ -1,7 +1,7 @@
 ---
 title: 安全集群模式下，Spark跨集群连接HBase
 date: 2017-09-07 22:09:30
-tags: "categories"
+tags: "spark"
 ---
 
 
